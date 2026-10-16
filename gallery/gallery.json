@@ -1,0 +1,84 @@
+{
+ "items": [
+  {
+   "f": "modely-2025-premium",
+   "nm": "Bosco Incantato",
+   "png": "bosco-incantato.png",
+   "th": "bosco-incantato-thumb.jpg"
+  },
+  {
+   "f": "modely-2025-base",
+   "nm": "Anime Clash",
+   "png": "anime-clash.png",
+   "th": "anime-clash-thumb.jpg"
+  },
+  {
+   "f": "modely",
+   "nm": "Celtic Raven",
+   "png": "celtic-raven.png",
+   "th": "celtic-raven-thumb.jpg"
+  },
+  {
+   "f": "model3-2024-base",
+   "nm": "Pop Art Tokyo",
+   "png": "pop-art-tokyo.png",
+   "th": "pop-art-tokyo-thumb.jpg"
+  },
+  {
+   "f": "model3",
+   "v": "Model 3 · Standard",
+   "nm": "Synthwave",
+   "png": "synthwave.png",
+   "th": "synthwave-thumb.jpg"
+  },
+  {
+   "f": "models-2021",
+   "nm": "Neon Dragon",
+   "png": "neon-dragon.png",
+   "th": "neon-dragon-thumb.jpg"
+  },
+  {
+   "f": "modelx-2021",
+   "nm": "Neon Dragon X",
+   "png": "neon-dragon-x.png",
+   "th": "neon-dragon-x-thumb.jpg"
+  },
+  {
+   "f": "modely-2025-performance",
+   "nm": "Lava Flow",
+   "png": "lava-flow.png",
+   "th": "lava-flow-thumb.jpg"
+  },
+  {
+   "f": "models-2025-plaid",
+   "nm": "Shark Attack",
+   "png": "shark-attack.png",
+   "th": "shark-attack-thumb.jpg"
+  },
+  {
+   "f": "modely-l",
+   "nm": "Thunderstorm",
+   "png": "thunderstorm.png",
+   "th": "thunderstorm-thumb.jpg"
+  },
+  {
+   "f": "model3",
+   "v": "Model 3 · Performance",
+   "nm": "Starship Sunset",
+   "png": "starship-sunset.png",
+   "th": "starship-sunset-thumb.jpg"
+  },
+  {
+   "f": "model3-2024-performance",
+   "nm": "Space Battle",
+   "png": "space-battle.png",
+   "th": "space-battle-thumb.jpg"
+  },
+  {
+   "f": "cybertruck",
+   "nm": "Lupo Lunare",
+   "png": "lupo-lunare.png",
+   "th": "lupo-lunare-thumb.jpg"
+  }
+ ]
+}
