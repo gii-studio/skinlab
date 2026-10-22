@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "fantasy",
+      "title": "Fantasy"
+    },
+    {
+      "id": "anime",
+      "title": "Anime"
+    },
+    {
+      "id": "landscapes",
+      "title": "Paesaggi"
+    },
+    {
+      "id": "abstract",
+      "title": "Astratto"
+    },
+    {
+      "id": "street-art",
+      "title": "Street Art"
+    }
+  ],
+  "items": [
+    {
+      "id": "neon-dragon",
+      "title": "Drago al neon",
+      "category": "fantasy",
+      "thumbnail": "neon-dragon-thumb.jpg",
+      "url": "neon-dragon.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 1,
+      "published": true
+    },
+    {
+      "id": "anime-clash",
+      "title": "Energia anime",
+      "category": "anime",
+      "thumbnail": "anime-clash-thumb.jpg",
+      "url": "anime-clash.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 2,
+      "published": true
+    },
+    {
+      "id": "enchanted-landscape",
+      "title": "Drago fantasy",
+      "category": "fantasy",
+      "thumbnail": "enchanted-landscape-thumb.jpg",
+      "url": "enchanted-landscape.jpeg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 3,
+      "published": true
+    },
+    {
+      "id": "pop-art",
+      "title": "Pop Art Tokyo",
+      "category": "street-art",
+      "thumbnail": "pop-art-thumb.jpg",
+      "url": "pop-art.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 4,
+      "published": true
+    },
+    {
+      "id": "shark",
+      "title": "Profondo blu",
+      "category": "landscapes",
+      "thumbnail": "shark-thumb.jpg",
+      "url": "shark.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 5,
+      "published": true
+    },
+    {
+      "id": "space-battle",
+      "title": "Battaglia spaziale",
+      "category": "fantasy",
+      "thumbnail": "space-battle-thumb.jpg",
+      "url": "space-battle.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 6,
+      "published": true
+    },
+    {
+      "id": "lava",
+      "title": "Lava",
+      "category": "abstract",
+      "thumbnail": "lava-thumb.jpg",
+      "url": "lava.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 7,
+      "published": true
+    },
+    {
+      "id": "storm",
+      "title": "Tempesta",
+      "category": "abstract",
+      "thumbnail": "storm-thumb.jpg",
+      "url": "storm.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 8,
+      "published": true
+    },
+    {
+      "id": "mecha-battle",
+      "title": "Battaglia mecha",
+      "category": "fantasy",
+      "thumbnail": "mecha-battle-thumb.jpg",
+      "url": "mecha-battle.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 9,
+      "published": true
+    },
+    {
+      "id": "synthwave",
+      "title": "Orizzonte synthwave",
+      "category": "abstract",
+      "thumbnail": "synthwave-thumb.jpg",
+      "url": "synthwave.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 10,
+      "published": true
+    },
+    {
+      "id": "nordic-ravens",
+      "title": "Corvi nordici",
+      "category": "fantasy",
+      "thumbnail": "nordic-ravens-thumb.jpg",
+      "url": "nordic-ravens.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 11,
+      "published": true
+    },
+    {
+      "id": "enchanted-forest",
+      "title": "Bosco incantato",
+      "category": "fantasy",
+      "thumbnail": "enchanted-forest-thumb.jpg",
+      "url": "enchanted-forest.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 12,
+      "published": true
+    },
+    {
+      "id": "martian-dragon",
+      "title": "Drago marziano",
+      "category": "fantasy",
+      "thumbnail": "martian-dragon-thumb.jpg",
+      "url": "martian-dragon.jpeg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 13,
+      "published": true
+    },
+    {
+      "id": "moon-wolf",
+      "title": "Lupo della luna",
+      "category": "fantasy",
+      "thumbnail": "moon-wolf-thumb.jpg",
+      "url": "moon-wolf.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 14,
+      "published": true
+    },
+    {
+      "id": "koi-sakura",
+      "title": "Koi Sakura",
+      "category": "street-art",
+      "thumbnail": "koi-sakura-thumb.jpg",
+      "url": "koi-sakura.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 15,
+      "published": true
+    },
+    {
+      "id": "rocket-sunset",
+      "title": "Verso le stelle",
+      "category": "landscapes",
+      "thumbnail": "rocket-sunset-thumb.jpg",
+      "url": "rocket-sunset.jpg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 16,
+      "published": true
+    },
+    {
+      "id": "koi-sakura-variant",
+      "title": "Koi Sakura · variante",
+      "category": "street-art",
+      "thumbnail": "koi-sakura-variant-thumb.jpg",
+      "url": "koi-sakura-variant.jpeg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 17,
+      "published": true
+    },
+    {
+      "id": "japanese-garden",
+      "title": "Giardino giapponese",
+      "category": "landscapes",
+      "thumbnail": "japanese-garden-thumb.jpg",
+      "url": "japanese-garden.jpeg",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 18,
+      "published": true
+    }
+  ]
+}
