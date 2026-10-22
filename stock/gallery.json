@@ -112,17 +112,6 @@
       "published": true
     },
     {
-      "id": "mecha-battle",
-      "title": "Battaglia mecha",
-      "category": "fantasy",
-      "thumbnail": "mecha-battle-thumb.jpg",
-      "url": "mecha-battle.jpg",
-      "credit": "GII Studio · generata con ChatGPT",
-      "license": "",
-      "order": 9,
-      "published": true
-    },
-    {
       "id": "synthwave",
       "title": "Orizzonte synthwave",
       "category": "abstract",
@@ -130,7 +119,7 @@
       "url": "synthwave.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 10,
+      "order": 9,
       "published": true
     },
     {
@@ -141,7 +130,7 @@
       "url": "nordic-ravens.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 11,
+      "order": 10,
       "published": true
     },
     {
@@ -152,7 +141,7 @@
       "url": "enchanted-forest.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 12,
+      "order": 11,
       "published": true
     },
     {
@@ -163,7 +152,7 @@
       "url": "martian-dragon.jpeg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 13,
+      "order": 12,
       "published": true
     },
     {
@@ -174,18 +163,7 @@
       "url": "moon-wolf.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 14,
-      "published": true
-    },
-    {
-      "id": "koi-sakura",
-      "title": "Koi Sakura",
-      "category": "street-art",
-      "thumbnail": "koi-sakura-thumb.jpg",
-      "url": "koi-sakura.jpg",
-      "credit": "GII Studio · generata con ChatGPT",
-      "license": "",
-      "order": 15,
+      "order": 13,
       "published": true
     },
     {
@@ -196,7 +174,7 @@
       "url": "rocket-sunset.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 16,
+      "order": 14,
       "published": true
     },
     {
@@ -207,7 +185,7 @@
       "url": "koi-sakura-variant.jpeg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 17,
+      "order": 15,
       "published": true
     },
     {
@@ -218,7 +196,7 @@
       "url": "japanese-garden.jpeg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 18,
+      "order": 16,
       "published": true
     }
   ]
