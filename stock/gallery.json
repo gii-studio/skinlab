@@ -20,6 +20,10 @@
     {
       "id": "street-art",
       "title": "Street Art"
+    },
+    {
+      "id": "halloween",
+      "title": "Halloween"
     }
   ],
   "items": [
@@ -79,17 +83,6 @@
       "published": true
     },
     {
-      "id": "space-battle",
-      "title": "Battaglia spaziale",
-      "category": "fantasy",
-      "thumbnail": "space-battle-thumb.jpg",
-      "url": "space-battle.jpg",
-      "credit": "GII Studio · generata con ChatGPT",
-      "license": "",
-      "order": 6,
-      "published": true
-    },
-    {
       "id": "lava",
       "title": "Lava",
       "category": "abstract",
@@ -97,7 +90,7 @@
       "url": "lava.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 7,
+      "order": 6,
       "published": true
     },
     {
@@ -108,7 +101,7 @@
       "url": "storm.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 8,
+      "order": 7,
       "published": true
     },
     {
@@ -119,7 +112,7 @@
       "url": "synthwave.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 9,
+      "order": 8,
       "published": true
     },
     {
@@ -130,7 +123,7 @@
       "url": "nordic-ravens.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 10,
+      "order": 9,
       "published": true
     },
     {
@@ -141,7 +134,7 @@
       "url": "enchanted-forest.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 11,
+      "order": 10,
       "published": true
     },
     {
@@ -152,7 +145,7 @@
       "url": "martian-dragon.jpeg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 12,
+      "order": 11,
       "published": true
     },
     {
@@ -163,7 +156,7 @@
       "url": "moon-wolf.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 13,
+      "order": 12,
       "published": true
     },
     {
@@ -174,7 +167,7 @@
       "url": "rocket-sunset.jpg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 14,
+      "order": 13,
       "published": true
     },
     {
@@ -185,7 +178,7 @@
       "url": "koi-sakura-variant.jpeg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
-      "order": 15,
+      "order": 14,
       "published": true
     },
     {
@@ -196,7 +189,40 @@
       "url": "japanese-garden.jpeg",
       "credit": "GII Studio · generata con ChatGPT",
       "license": "",
+      "order": 15,
+      "published": true
+    },
+    {
+      "id": "halloween-pumpkins",
+      "title": "Zucche e teschi",
+      "category": "halloween",
+      "thumbnail": "halloween-pumpkins-thumb.jpg",
+      "url": "halloween-pumpkins.png",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
       "order": 16,
+      "published": true
+    },
+    {
+      "id": "graffiti-pop",
+      "title": "Graffiti pop",
+      "category": "street-art",
+      "thumbnail": "graffiti-pop-thumb.jpg",
+      "url": "graffiti-pop.png",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 17,
+      "published": true
+    },
+    {
+      "id": "halloween-monsters",
+      "title": "Notte dei mostri",
+      "category": "halloween",
+      "thumbnail": "halloween-monsters-thumb.jpg",
+      "url": "halloween-monsters.png",
+      "credit": "GII Studio · generata con ChatGPT",
+      "license": "",
+      "order": 18,
       "published": true
     }
   ]
